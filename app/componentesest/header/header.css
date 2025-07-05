@@ -1,0 +1,15 @@
+nav{
+    background-color: black;
+    padding: 40px;
+
+}
+nav a{
+    color: aliceblue;
+    font-size: 20px4;
+    margin: 10px;
+    text-decoration: none;
+}
+nav a:hover{
+    border-radius: 50px;
+    background-color: purple;
+}
